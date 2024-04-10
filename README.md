@@ -19,10 +19,10 @@ This tutorial outlines the implementation of on-premises Active Directory within
 
 <h2>High-Level Deployment and Configuration Steps</h2>
 
-- Step 1
-- Step 2
-- Step 3
-- Step 4
+- Create 2 VMs that are on the same domain with a created admin and employee. Also able to logged in remotely without the pretext "mydomain.com"
+- Create folders "_EMPLOYEES, _ADMIN, & _COMPUTERS"
+- Upload the script to add more created employees into Windows Powershell ISE as an administrator
+- Able to log into "client-1" as a created employee
 
 <h2>Deployment and Configuration Steps</h2>
 
