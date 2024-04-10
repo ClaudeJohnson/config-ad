@@ -20,7 +20,7 @@ This tutorial outlines the implementation of on-premises Active Directory within
 <h2>High-Level Deployment and Configuration Steps</h2>
 
 - Create 2 VMs that are on the same domain with a created admin and employee. Also able to logged in remotely without the pretext "mydomain.com"
-- Create folders "_EMPLOYEES, _ADMIN, & _COMPUTERS"
+- Create folders "_EMPLOYEES & _ADMIN"
 - Upload the script to add more created employees into Windows Powershell ISE as an administrator
 - Able to log into "client-1" as a created employee
 
@@ -60,7 +60,7 @@ Uploaded the script to add more employees
 <img src="https://i.imgur.com/18zjJLA.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-In the ADUC, Active Directory Users and Computers, add "_EMPLOYEES, _ADMIN, and _COMPUTERS" folders. Inside the "_EMPLOYEES" folder is where the created users are upload and added to the domain
+In the ADUC, Active Directory Users and Computers, add "_EMPLOYEES & _ADMIN" folders. Inside the "_EMPLOYEES" folder is where the created users are upload and added to the domain
 </p>
 <br />
 <p>
