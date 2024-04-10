@@ -63,3 +63,13 @@ Uploaded the script to add more employees
 In the ADUC, Active Directory Users and Computers, folder I added _EMPLOYEES, _ADMIN, and computer folders. Inside the _EMPLOYEES folder is where the created users are upload and added to the domain
 </p>
 <br />
+<p>
+<img src="https://i.imgur.com/yw0wttk.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+<img src="https://i.imgur.com/oEm5NvW.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Logged into client-1 remotely as created user "qol.jap" 
+</p>
+<br />
