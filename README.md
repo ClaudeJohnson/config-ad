@@ -60,7 +60,7 @@ Uploaded the script to add more employees
 <img src="https://i.imgur.com/18zjJLA.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-In the ADUC, Active Directory Users and Computers, folder I added _EMPLOYEES, _ADMIN, and computer folders. Inside the _EMPLOYEES folder is where the created users are upload and added to the domain
+In the ADUC, Active Directory Users and Computers, add "_EMPLOYEES, _ADMIN, and _COMPUTERS" folders. Inside the "_EMPLOYEES" folder is where the created users are upload and added to the domain
 </p>
 <br />
 <p>
